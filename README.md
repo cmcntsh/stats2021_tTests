@@ -9,7 +9,8 @@ This is part of a set of pages on statistics. https://github.com/cmcntsh/stats20
 
 ## Readings
 
-* 
+* Field chapter 10 (skim)
+* Learn Statistics with Jamovi chapter 11 available at: https://drive.google.com/file/d/1awJBpfse5BpesVMRijnggTRSTygNWGl0/view
 
 ## Statistical Concept Videos
 
