@@ -1,1 +1,17 @@
-# stats2021_tTests
+# t-tests
+
+## Exercises
+
+* 
+
+## Readings
+
+* 
+
+## Statistical Concept Videos
+
+* 
+
+## Statistical Software Videos
+
+* 
